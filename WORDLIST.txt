@@ -1,0 +1,12 @@
+hangman   
+parrot   
+owl  
+ironman    
+hulk   
+captain   
+seize   
+house   
+enigma   
+paradox   
+wormhole   
+thanos   
